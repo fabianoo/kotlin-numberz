@@ -1,0 +1,13 @@
+.git/
+.settings/
+.idea/
+.gradle/*
+.classpath
+.project
+target/
+build/
+bin/
+logs/
+*.iml
+*.zip
+*.pyc
